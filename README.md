@@ -1,0 +1,1 @@
+Given a positive number, find out all combinations of positive numbers that adds upto that number. The program should print only combinations, not permutations. For example, for input 3, either 1, 2 or 2, 1 should be printed.
